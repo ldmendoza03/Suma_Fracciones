@@ -3,7 +3,7 @@
  * Enunciado: Suma Fracciones
  * Autor: Leandro Mendoza
  * Fecha de Creación: 5 de Noviembre del 2024
- * Fecha de Modificación: 5 de Noviembre del 2024
+ * Fecha de Modificación: 9 de Noviembre del 2024
  * NRC: 1978
  * Curso: Estructura de Datos
  * Docente: Edgar Solis
