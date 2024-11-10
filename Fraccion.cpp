@@ -2,11 +2,11 @@
  * Universidad de las Fuerzas Armadas "ESPE"
  * Enunciado: Suma Fracciones
  * Autor: Leandro Mendoza
- * Fecha de Creación: 5 de Noviembre del 2024
- * Fecha de Modificación: 9 de Noviembre del 2024
+ * Fecha de Creacion: 5 de Noviembre del 2024
+ * Fecha de Modificacion: 10 de Noviembre del 2024
  * NRC: 1978
  * Curso: Estructura de Datos
- * Docente: Edgar Solis
+ * Docente: Edgar Fernando Solis Acosta
  */
 
 #include "Fraccion.h"
@@ -14,10 +14,10 @@
 int main() {
     Fraccion<int> fraccion1, fraccion2, resultado;
 
-    printf("Ingrese la primera fracción:\n");
+    printf("Ingrese la primera fraccion:\n");
     fraccion1.ingresarFraccion();
 
-    printf("Ingrese la segunda fracción:\n");
+    printf("Ingrese la segunda fraccion:\n");
     fraccion2.ingresarFraccion();
 
     resultado = fraccion1.sumarFracciones(fraccion2);
@@ -28,3 +28,4 @@ int main() {
 
     return 0;
 }
+

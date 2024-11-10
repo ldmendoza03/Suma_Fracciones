@@ -45,7 +45,7 @@ public:
         }
         cad[i] = '\0';
         printf("\n");
-        return atoi(cad); // Convierte la cadena a un número entero
+        return static_cast<T>(atoi(cad)); // Convierte la cadena a un número del tipo T
     }
 
     // Método para ingresar una fracción con validación
